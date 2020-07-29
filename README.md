@@ -1,11 +1,9 @@
-<img src="https://github.com/ethanlonge/ethanlonge/raw/master/images/banner.jpg" />
+<img src="https://raw.githubusercontent.com/ethanlonge/ethanlonge/master/images/banner-v2.jpg" />
 
-## Ethan Longe
-#### Web Developer
-
-- 🔭 I’m currently working on _nothing_ (got a suggestion, email me)
-- 🌱 I’m currently learning AWS serverless
-- 💬 Ask me about PHP stuff
+## About Me
+- 🔭  I’m currently working on _nothing_ (got a suggestion, email me)
+- 🌱  I’m currently learning AWS serverless
+- 💬  Ask me about PHP stuff
 
 <!--
 **ethanlonge/ethanlonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
