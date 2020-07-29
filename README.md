@@ -1,4 +1,9 @@
 ### Hi there 👋
+#### My name is Ethan and I am a web developer
+
+- 🔭 I’m currently working on _nothing_ (got a suggestion, email me)
+- 🌱 I’m currently learning AWS serverless
+- 💬 Ask me about PHP stuff
 
 <!--
 **ethanlonge/ethanlonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
