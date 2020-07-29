@@ -1,5 +1,7 @@
-### Hi there 👋
-#### My name is Ethan and I am a web developer
+<img src="https://github.com/ethanlonge/ethanlonge/raw/master/images/banner.jpg" />
+
+### Ethan Longe
+#### Web developer
 
 - 🔭 I’m currently working on _nothing_ (got a suggestion, email me)
 - 🌱 I’m currently learning AWS serverless
