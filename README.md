@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ethanlonge/ethanlonge/master/images/banner-v2.jpg" />
+<img src="https://raw.githubusercontent.com/ethanlonge/ethanlonge/master/images/banner-v3.jpg" />
 
 ## About Me
 - 🔭  I’m currently working on _nothing_ (got a suggestion, email me)
